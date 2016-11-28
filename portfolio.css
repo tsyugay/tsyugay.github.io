@@ -4,11 +4,11 @@
 }
 
 * {
-    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif !important;
-    font-size: 15px !important;
-    line-height: 1.5 !important;
-    font-weight: 300 !important;
-    height: auto !important;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    font-weight: 300;
+    height: auto;
 }
 
 .main-wrapper {
