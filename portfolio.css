@@ -4,10 +4,9 @@
 }
 
 * {
-    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Avenir;
     font-size: 15px;
     line-height: 1.5;
-    font-weight: 300;
     height: auto;
 }
 
@@ -29,6 +28,7 @@ a:hover {
 }
 
 .header {
+    font-weight: bold;
     background-color: #EABCB1;
 	padding-top: 30px;
 	padding-bottom: 7px;
