@@ -288,8 +288,8 @@ a:hover {
 
 #mportfolio {
     height: 880px;
-    background-color: #484848;
-    color: #BFAF97;
+    background-color: #757575;
+    color: #333333;
 }
 
 #resume {
@@ -320,9 +320,9 @@ a:hover {
     position: relative;
     left: 158px;
     bottom: 12px;
-    filter: gray; /* IE6-9 */
-    filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
-    -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+    /*filter: gray; /* IE6-9 */*/
+    /*filter: grayscale(1);  Microsoft Edge and Firefox 35+ */
+    /*-webkit-filter: grayscale(1);  Google Chrome, Safari 6+ & Opera 15+ */
 }
 
 
